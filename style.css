@@ -1,0 +1,31 @@
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.number{
+    width: 70%;
+    padding: 8px;
+    border-radius: 5px;
+    
+}
+.password{
+    width: 70%;
+    padding: 8px;
+    border-radius: 5px;
+    
+}
+
+.login{
+    width: 70%;
+    padding: 6px ;
+    border-radius: 10px;
+    background-color: rgb(31, 80, 214);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.Facebook{
+    font-size: 18px;
+    color: #15294c;
+}
